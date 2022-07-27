@@ -4,7 +4,7 @@ A One Piece API that provides information on all the crew members that are a par
 
 **Link to project:** https://straw-hat-pirates-api.herokuapp.com/
 
-![alt text](https://i.imgur.com/7KYTGpC.png)
+![alt text](https://i.imgur.com/2R62ugr.png?1)
 
 ## How It's Made:
 
