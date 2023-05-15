@@ -2,7 +2,7 @@
 
 A One Piece API that provides information on all the crew members that are a part of the Straw Hat Pirates.
 
-**Link to project:** https://straw-hat-pirates-api.herokuapp.com/
+**Link to project:** N/A
 
 ![alt text](https://i.imgur.com/2R62ugr.png?1)
 
